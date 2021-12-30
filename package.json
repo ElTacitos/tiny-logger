@@ -1,7 +1,7 @@
 {
   "name": "@eltacitos/tiny-logger",
   "version": "1.1.2",
-  "description": "Just a tiny logger based",
+  "description": "Just a tiny logger with color.",
   "license": "MIT",
   "repository": "eltacitos/tiny-logger",
   "main": "index.js",
