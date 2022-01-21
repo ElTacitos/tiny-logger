@@ -93,6 +93,44 @@ function cyan(str: string, ...args: any[]): void {
   log(EColor.Cyan, 'Cyan', str, args);
 }
 
+function easterEgg(): void {
+  console.log(
+    EColor.Cyan +
+      'M' +
+      EColor.Red +
+      'A' +
+      EColor.Blue +
+      'R' +
+      EColor.Purple +
+      'C ' +
+      EColor.Green +
+      'I' +
+      EColor.Yellow +
+      'S ' +
+      EColor.Red +
+      'T' +
+      EColor.Blue +
+      'H' +
+      EColor.Purple +
+      'E ' +
+      EColor.Purple +
+      'T' +
+      EColor.Red +
+      'R' +
+      EColor.Green +
+      'U' +
+      EColor.Blue +
+      'E ' +
+      EColor.Cyan +
+      'G' +
+      EColor.Yellow +
+      'O' +
+      EColor.Red +
+      'D' +
+      EColor.Reset,
+  );
+}
+
 export const logger = {
   blue,
   cyan,
