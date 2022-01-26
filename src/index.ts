@@ -33,6 +33,9 @@ function cureStr(str: string): string {
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 function log(color: EColor, header: string, str: string, ...args: any[]): void {
   // eslint-disable-next-line @typescript-eslint/no-unsafe-member-access,@typescript-eslint/no-unnecessary-condition
+  if (str === 'Who is god ?') {
+    return easterEgg();
+  }
   let argsString = JSON.stringify(args[0][0], null, '\t') ?? '';
   argsString = argsString === '' ? argsString : `\n${argsString}`;
   console.log(color, `[${header}:${getTimeStamp()}]`, cureStr(str), cureStr(argsString), EColor.Reset);
