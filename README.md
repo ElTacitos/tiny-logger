@@ -1,8 +1,11 @@
 # @eltacitos/tiny-logger
 
-[![npm (scoped)](https://img.shields.io/npm/v/@eltacitos/tiny-logger.svg)](https://www.npmjs.com/package/@ElTacitos/tiny-logger)
+[![npm (scoped)](https://img.shields.io/npm/v/@eltacitos/tiny-logger?style=for-the-badge)](https://www.npmjs.com/package/@eltacitos/tiny-logger)
+[![NPM Downloads](https://img.shields.io/npm/dw/@eltacitos/tiny-logger?style=for-the-badge)](https://www.npmjs.com/package/@eltacitos/tiny-logger)
+[![NPM Downloads](https://img.shields.io/github/stars/ElTacitos/tiny-logger?style=for-the-badge)](https://www.npmjs.com/package/@eltacitos/tiny-logger)
 
-Just a tiny logger with color.
+
+Just a tiny npm package to log in typescript with color.
 
 ## Install
 
