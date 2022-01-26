@@ -1,6 +1,6 @@
 # @eltacitos/tiny-logger
 
-[![npm (scoped)](https://img.shields.io/npm/v/@eltacitos/tiny-logger.svg)](https://www.npmjs.com/package/@ElTacitos/tiny-looger)
+[![npm (scoped)](https://img.shields.io/npm/v/@eltacitos/tiny-logger.svg)](https://www.npmjs.com/package/@ElTacitos/tiny-logger)
 
 Just a tiny logger with color.
 
