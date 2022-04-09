@@ -18,7 +18,7 @@
     "test": "jest",
     "version": "npm run format && git add -A src",
     "postversion": "git push && git push --tags",
-    "prepublishOnly": "npm run lint"
+    "prepublishOnly": "npm run lint && npm version patch"
   },
   "keywords": [
     "logger",
