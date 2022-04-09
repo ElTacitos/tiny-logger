@@ -30,7 +30,7 @@ $ npm i @eltacitos/tiny-logger
 ```ts
 import {logger} from "@eltacitos/tiny-logger/lib";
 
-logger.error("hwB0EkOZ", {test:"ECr8Jo9o"})
+logger.error("hwB0EkOZ", {demo:"ECr8Jo9o"})
 /*
 [Error:2021-12-30 05:34:50] hwB0EkOZ 
 {
